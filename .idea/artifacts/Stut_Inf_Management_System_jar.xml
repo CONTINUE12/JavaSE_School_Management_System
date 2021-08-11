@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Stut_Inf_Management_System:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Stut_Inf_Management_System_jar</output-path>
+    <root id="archive" name="Stut_Inf_Management_System.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/jar/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Stut_Inf_Management_System" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Tools_Use/mysql-connector-java-8.0.23/mysql-connector-java-8.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
