@@ -28,3 +28,7 @@
 2. 数据表teachers：编号id、姓名name、密码password、性别sex、生日birth、职称state、学院school
 3. 数据表grades：学号sid、语文chinese、数学math
 4. 数据表managers：编号id、姓名name、密码password 
+
+五.项目讲解博客
+
+https://blog.csdn.net/qq_39144436/article/details/123135675
