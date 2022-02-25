@@ -10,7 +10,8 @@
 3. 管理员：添加、修改、删除学生账号，添加、修改、删除教师账号
 
 二.开发环境
-    Windows 10，IntelliJ IDEA 2020.2，mysql5.5
+
+   Windows 10，IntelliJ IDEA 2020.2，mysql5.5
 	
 三.项目结构设计
 
