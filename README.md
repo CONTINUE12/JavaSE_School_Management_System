@@ -43,3 +43,6 @@ https://github.com/CONTINUE12/RIREE
 
 3.基于Spring+SpringMVC+Mybatis的图书管理系统 
 https://github.com/CONTINUE12/SSM_LibrarySystem
+
+4.基于SpringBoot2.0+Mybatis的学生成绩管理系统 
+https://github.com/CONTINUE12/SpringBoot_StudentManagerSystem
